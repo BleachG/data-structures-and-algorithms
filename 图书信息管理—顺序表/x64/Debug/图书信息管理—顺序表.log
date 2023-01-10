@@ -1,0 +1,5 @@
+﻿  使用顺序存储结构建立图书管理系统.cpp
+C:\Users\86155\Desktop\使用顺序存储结构建立图书管理系统.cpp(8,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965,1): message : 参见“OVERFLOW”的前一个定义
+C:\Users\86155\Desktop\使用顺序存储结构建立图书管理系统.cpp(136,28): warning C4244: “参数”: 从“double”转换到“ElemType”，可能丢失数据
+  图书信息管理—顺序表.vcxproj -> D:\VS 2021\program\图书信息管理—顺序表\x64\Debug\图书信息管理—顺序表.exe
