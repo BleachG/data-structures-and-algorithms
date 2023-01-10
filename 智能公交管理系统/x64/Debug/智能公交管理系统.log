@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\VS 2021\program\智能公交管理系统\源.cpp(468,8): warning C4101: “b”: 未引用的局部变量
+D:\VS 2021\program\智能公交管理系统\源.cpp(591,11): warning C4101: “v2”: 未引用的局部变量
+D:\VS 2021\program\智能公交管理系统\源.cpp(591,7): warning C4101: “v1”: 未引用的局部变量
+  智能公交管理系统.vcxproj -> D:\VS 2021\program\智能公交管理系统\x64\Debug\智能公交管理系统.exe
