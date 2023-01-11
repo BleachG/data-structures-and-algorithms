@@ -1,0 +1,7 @@
+﻿  newc＋＋file.cpp
+C:\Users\86155\Desktop\newc＋＋file.cpp(11,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965,1): message : 参见“OVERFLOW”的前一个定义
+C:\Users\86155\Desktop\newc＋＋file.cpp(177,24): warning C4244: “参数”: 从“double”转换到“ElemType”，可能丢失数据
+C:\Users\86155\Desktop\newc＋＋file.cpp(180,70): warning C4244: “参数”: 从“double”转换到“ElemType”，可能丢失数据
+C:\Users\86155\Desktop\newc＋＋file.cpp(127,9): warning C4101: “n”: 未引用的局部变量
+  图书信息—链表.vcxproj -> D:\VS 2021\program\图书信息—链表\x64\Debug\图书信息—链表.exe
