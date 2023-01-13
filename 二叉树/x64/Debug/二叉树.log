@@ -1,0 +1,10 @@
+﻿  源.c
+D:\VS 2021\program\二叉树\源.c(81,22): warning C4047: “函数”:“bitree”与“bitree *”的间接级别不同
+D:\VS 2021\program\二叉树\源.c(81,21): warning C4024: “preordertraverse”: 形参和实参 1 的类型不同
+D:\VS 2021\program\二叉树\源.c(85,21): warning C4047: “函数”:“bitree”与“bitree *”的间接级别不同
+D:\VS 2021\program\二叉树\源.c(85,20): warning C4024: “inordertraverse”: 形参和实参 1 的类型不同
+D:\VS 2021\program\二叉树\源.c(89,23): warning C4047: “函数”:“bitree”与“bitree *”的间接级别不同
+D:\VS 2021\program\二叉树\源.c(89,22): warning C4024: “backordertraverse”: 形参和实参 1 的类型不同
+D:\VS 2021\program\二叉树\源.c(93,19): warning C4047: “函数”:“bitree *”与“bitree **”的间接级别不同
+D:\VS 2021\program\二叉树\源.c(93,17): warning C4024: “creatbitnode”: 形参和实参 1 的类型不同
+  二叉树.vcxproj -> D:\VS 2021\program\二叉树\x64\Debug\二叉树.exe
